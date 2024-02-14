@@ -9,4 +9,4 @@ A description of the project: to emulate the hangman project
 Installation instructions install it
 Usage instructions
 File structure of the project
-License information
+License information some more text
