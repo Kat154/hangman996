@@ -12,10 +12,10 @@
 - Have fun playing Hangman!
 ## File Structure
 hangman/
-│   milestone.py        # Main game script
-│   milestone_3.py      # Additional functionality (e.g., scoring)
-│   milestone_4.py      # Improved user interface
-│   milestone_5.py      # Advanced features (e.g., difficulty levels)
+│   milestone.py        # first milestone file
+│   milestone_3.py      # second file
+│   milestone_4.py      
+│   milestone_5.py      # this has the final game in a class format
 │   README.md           # Project documentation
 
 
