@@ -12,11 +12,11 @@
 - Have fun playing Hangman!
 ## File Structure
 hangman/
-│   milestone.py        # first milestone file
-│   milestone_3.py      # second file
-│   milestone_4.py      
-│   milestone_5.py      # this has the final game in a class format
-│   README.md           # Project documentation
+-   milestone.py        # first milestone file
+-   milestone_3.py      # second file
+-   milestone_4.py      
+-   milestone_5.py      # this has the final game in a class format
+-   README.md           # Project documentation
 
 
 LicenseThis project is licensed under the MIT License. Feel free to use, modify, and distribute it as needed.
