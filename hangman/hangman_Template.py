@@ -65,7 +65,7 @@ class Hangman:
         # TODO 3: If the letter is not in the word, reduce the number of lives by 1
         # Be careful! A letter can contain the same letter more than once. TIP: Take a look at the index() method in the string class
         pass
-
+# this is a test change
     def ask_letter(self):
         '''
         Asks the user for a letter and checks two things:
